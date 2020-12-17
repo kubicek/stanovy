@@ -2,7 +2,7 @@
 
 ## Článek 1 Úvodní ustanovení
 
-1) Politická strana nese název Svobodní
+1) Politická strana nese název Svobodní, zkratka Svobodní.
 
 2) Strana je registrována podle zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích ve znění pozdějších předpisů a působí v České republice.
 
@@ -56,7 +56,7 @@ f) Úctu ke svobodnému rozhodování států považují Svobodní za analogii �
 
 ### 5) Volný trh
 
-a) Svoboda ekonomické iniciativy a spravedlivá soutěž volného trhu umožňuje nejlépe každému jednotlivci dosahovat svých osobních cílů. Blahobyt není ani politickým cílem, ani politickou filosofií. Pokud se stane míra blahobytu jediným kritériem politického rozhodování, je politický systém vystaven enormním rizikům a nestabilitě, protože ne vždy je možné blahobyt zaručit a protože existují hodnoty, kterým je třeba dát přednost před blahobytem. To platí jak pro českou domácí politiku, tak pro současnou evropskou integraci.
+a) Svoboda ekonomické iniciativy a spravedlivá soutěž volného trhu umožňuje nejlépe každému jednotlivci dosahovat svých osobních cílů. Blahobyt není ani politickým cílem, ani politickou filosofií. Pokud se stane míra blahobytu jediným kritériem politického rozhodování, je politický systém vystaven enormním rizikům a nestabilitě, protože ne vždy je možné blahobyt zaručit, a protože existují hodnoty, kterým je třeba dát přednost před blahobytem. To platí jak pro českou domácí politiku, tak pro současnou evropskou integraci.
 
 b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největší překážkou hospodářské spolupráce je politické zasahování do svobodného rozhodování podnikatelských subjektů.
 
@@ -124,7 +124,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Příznivci strany nejsou členy strany ve smyslu zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích.
 
-3) Příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí ve volebním obvodě, ve kterém mají trvalý pobyt.
+3) Příznivci strany mohou podávat návrhy orgánům strany, mohou se účastnit diskusních setkání, mohou být delegováni do odborných komisí, mohou se podílet na výběru kandidátů pro volby do veřejných funkcí ve volebním obvodě, ve kterém mají trvalé bydliště.
 
 4) Pro ukončení statusu příznivce se přiměřeně použijí ustanovení o ukončení členství.
 
