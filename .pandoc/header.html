@@ -1,0 +1,36 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<style>
+  body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    max-width: 60em;
+  }
+  
+  h2, h3 {
+    text-align: center;
+    font-size: 110%;
+  }
+
+  ol {
+    counter-reset: list;
+    list-style-type: none;
+  }
+
+  ol > li {
+    margin: 0 0 0.5rem 0;
+    position: relative;
+  }
+
+  ol > li:before {
+    position: absolute;
+    content: counter(list) ") ";
+    counter-increment: list;
+    left: -1.25em;
+  }
+
+  h3+ol > li:before,
+  h2+ol>li>ol > li:before{
+    content: counter(list, lower-alpha) ") ";
+  }
+
+</style>

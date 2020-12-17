@@ -1,0 +1,36 @@
+name: Generate PDF
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+      - run: mkdir output
+      - name: Generate HTML
+        uses: docker://pandoc/core:2.11.2
+        with:
+          args: >-
+            --standalone
+            --from markdown+ascii_identifiers 
+            --output=result.html
+            --metadata title="Stanovy Svobodných"
+            -t html5
+            -A .pandoc/footer.html
+            -H .pandoc/header.html
+            index.md
+      - run: sudo apt-get update 
+      - name: Install wkhtmltopdf
+        run: sudo apt-get install xvfb libfontconfig wkhtmltopdf
+      - name: Generate PDF
+        run: xvfb-run wkhtmltopdf \
+          --page-size a4 --title "Stanovy Svobodných" \
+          --margin-bottom 15 --margin-top 15 \
+          --margin-right 15 --margin-left 15 \
+          --enable-local-file-access \
+          result.html output/result.pdf
+      - uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: output
