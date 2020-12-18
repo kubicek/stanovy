@@ -24,15 +24,7 @@ jobs:
       - name: Install wkhtmltopdf
         run: sudo apt-get install xvfb libfontconfig wkhtmltopdf
       - name: Generate PDF
-        run: xvfb-run wkhtmltopdf \
-          --page-size a4 --title "Stanovy Svobodných" \
-          --margin-bottom 35 --margin-top 15 \
-          --margin-right 0 --margin-left 0 \
-          --enable-local-file-access \
-          --header-spacing 12 --header-html .wkhtmltopdf/header.html \
-          --footer-spacing 12 --footer-html .wkhtmltopdf/footer.html \
-          --replace "schvaleno" "1.1.2020" \
-          result.html output/result.pdf
+        run: xvfb-run wkhtmltopdf --page-size a4 --title "Stanovy Svobodných" --margin-bottom 35 --margin-top 15 --margin-right 0 --margin-left 0 --enable-local-file-access --header-spacing 12 --header-html .wkhtmltopdf/header.html --footer-spacing 12 --footer-html .wkhtmltopdf/footer.html --replace "schvaleno" "1.1.2020" result.html output/result.pdf
       - uses: actions/upload-artifact@master
         with:
           name: output
