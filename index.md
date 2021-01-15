@@ -1,8 +1,6 @@
-# Stanovy Svobodných
-
 ## Článek 1 Úvodní ustanovení
 
-1) Politická strana nese název Svobodní
+1) Politická strana nese název Svobodní
 
 2) Strana je registrována podle zákona č. 424/1991 Sb., o sdružování v politických stranách a v politických hnutích ve znění pozdějších předpisů a působí v České republice.
 
@@ -24,11 +22,11 @@ d) Nadřazenost principu osobní svobody a odpovědnosti nad jinými cíli vede 
 
 e) Součástí svobody je odpovědnost.
 
-f) Svobodou rozumí Svobodní možnost jednotlivce dělat si za své prostředky a na svém majetku cokoliv, co (nad míru přiměřenou okolnostem) nezasahuje do analogického výkonu svobody jiného. Svoboda velmi úzce souvisí s vlastnickým právem jako možností držet, užívat, požívat plody a nakládat s vlastněnou věcí.
+f) Svobodou rozumí Svobodní možnost jednotlivce dělat si za své prostředky a na svém majetku cokoliv, co (nad míru přiměřenou okolnostem) nezasahuje do analogického výkonu svobody jiného. Svoboda velmi úzce souvisí s vlastnickým právem jako možností držet, užívat, požívat plody a nakládat s vlastněnou věcí.
 
 ### 2) Tradice
 
-Svobodní se hlásí k duchovnímu, kulturnímu a politickému dědictví západní civilizace. Není však úkolem státu tyto hodnoty prosazovat.
+Svobodní se hlásí k duchovnímu, kulturnímu a politickému dědictví západní civilizace. Není však úkolem státu tyto hodnoty prosazovat.
 
 ### 3) Pravidla, principy, právo
 
@@ -66,9 +64,9 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 2) Překážkou členství a důvodem k jeho ukončení je členství v jiné politické straně nebo hnutí, uvedení nepravdivých informací zejména na přihlášce, nesplnění některých předpokladů pro výkon funkcí ve státních orgánech (zákon č. 451/1991 Sb., lustrační zákon), kandidatura na veřejnou funkci bez souhlasu příslušného orgánu strany ke dni voleb.
 
-3) Vyplněná přihláška se podává elektronicky krajskému předsednictvu prostřednictvím informačního systému strany. Pokud žadatel v přihlášce nespecifikuje krajskou organizaci, jíž chce být členem, má se za to, že přihláška je podána k územně příslušnému krajskému předsednictvu dle trvalého pobytu. O přijetí rozhoduje krajské předsednictvo, v jehož kraji žadatel žádá o členství, zpravidla na základě přijímacího pohovoru, členství vzniká po zaplacení členského příspěvku, doručení přihlášky podepsané žadatelem a vyznačení schválení krajským předsednictvem. Pokud krajské předsednictvo odmítne žadatele o členství přijmout, může se žadatel odvolat k Republikovému předsednictvu. Rozhodnutí, kterým Republikové předsednictvo vyhoví odvolání, nahrazuje schválení krajským předsednictvem. Znovupřijetí vyloučeného člena podléhá souhlasu Republikového výboru.
+3) Vyplněná přihláška se podává elektronicky krajskému předsednictvu prostřednictvím informačního systému strany. Pokud žadatel v přihlášce nespecifikuje krajskou organizaci, jíž chce být členem, má se za to, že přihláška je podána k územně příslušnému krajskému předsednictvu dle trvalého pobytu. O přijetí rozhoduje krajské předsednictvo, v jehož kraji žadatel žádá o členství, zpravidla na základě přijímacího pohovoru, členství vzniká po zaplacení členského příspěvku, doručení přihlášky podepsané žadatelem a vyznačení schválení krajským předsednictvem. Pokud krajské předsednictvo odmítne žadatele o členství přijmout, může se žadatel odvolat k Republikovému předsednictvu. Rozhodnutí, kterým Republikové předsednictvo vyhoví odvolání, nahrazuje schválení krajským předsednictvem. Znovupřijetí vyloučeného člena podléhá souhlasu Republikového výboru.
 
-4) Člen krajského sdružení může požádat o členství v jiném krajském sdružení prostřednictvím předsedy kraje, kterého chce být členem. Předseda tohoto kraje dá hlasovat o žádosti na nejbližším zasedání krajského předsednictva. Pokud krajské předsednictvo žadatele přijme, stane se členem tohoto kraje. Republiková kancelář na základě zápisu z jednání krajského předsednictva zařadí žadatele do krajského sdružení, o jehož členství žádal. Veškerá práva a povinnosti v původním kraji ztrácí, včetně případného mandátu v orgánech kraje, zároveň získává veškerá práva a povinnosti v novém krajském sdružení. Tato změna je možná pouze jednou za kalendářní rok.
+4) Člen krajského sdružení může požádat o členství v jiném krajském sdružení prostřednictvím předsedy kraje, kterého chce být členem. Předseda tohoto kraje dá hlasovat o žádosti na nejbližším zasedání krajského předsednictva. Pokud krajské předsednictvo žadatele přijme, stane se členem tohoto kraje. Republiková kancelář na základě zápisu z jednání krajského předsednictva zařadí žadatele do krajského sdružení, o jehož členství žádal. Veškerá práva a povinnosti v původním kraji ztrácí, včetně případného mandátu v orgánech kraje, zároveň získává veškerá práva a povinnosti v novém krajském sdružení. Tato změna je možná pouze jednou za kalendářní rok.
 
 5) Členství zaniká:
 
@@ -76,7 +74,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
   b) písemným prohlášením s uvedením dne ukončení členství, členství nelze ukončit se zpětnou platností,
 
-  c) vyloučením v případě závažného porušení stanov či opakovaného nebo závažného poškození dobrého jména strany, za závažné porušení stanov se může považovat jednání, které odporuje pravidlům férové svobodné soutěže; za závažné porušení stanov se považuje rovněž činnost či projevy, které jsou v rozporu s čl. 2 bod 1) stanov,
+  c) vyloučením v případě závažného porušení stanov či opakovaného nebo závažného poškození dobrého jména strany, za závažné porušení stanov se může považovat jednání, které odporuje pravidlům férové svobodné soutěže; za závažné porušení stanov se považuje rovněž činnost či projevy, které jsou v rozporu s čl. 2 bod 1) stanov,
 
   d) vznikem překážky členství podle odst. 2),
 
@@ -160,7 +158,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 ## Článek 7 Krajská sdružení
 
-1) Krajská sdružení sdružují členy. Každý člen přísluší ke krajskému sdružení, u něhož naposledy úspěšně žádal o členství.
+1) Krajská sdružení sdružují členy. Každý člen přísluší ke krajskému sdružení, u něhož naposledy úspěšně žádal o členství.
 
 2) Orgány krajského sdružení jsou krajský sněm a krajské předsednictvo.
 
@@ -187,7 +185,7 @@ Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující p
 
   e) svolává minimálně jedenkrát ročně krajský sněm,
 
-  f) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak,
+  f) rozhoduje o přijetí členů se souhlasem Republikového předsednictva, pokud tito žadatelé byli v minulosti členy Svobodných a v ostatních případech samostatně, pokud není určeno jinak,
 
   g) může zřizovat poradní komise,
 
@@ -262,7 +260,7 @@ Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující p
 
   f) může schválit vzorové jednací a volební řády,
 
-  g) projednává odvolání proti rozhodnutí Rozhodčí komise o vyloučení člena a řeší případy, kdy rozhodnutím Rozhodčí komise nebyla dosažena náprava,
+  g) projednává odvolání proti rozhodnutí Rozhodčí komise o vyloučení člena a řeší případy, kdy rozhodnutím Rozhodčí komise nebyla dosažena náprava,
 
   h) ukládá úkoly předsednictvu,
 
@@ -304,7 +302,7 @@ Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující p
 
 ## Článek 11 Předseda strany
 
-1) Předseda nebo pověřený člen předsednictva svolává republikový sněm, výbor, Republikové předsednictvo a předsedá jim.
+1) Předseda nebo pověřený člen předsednictva svolává republikový sněm, výbor, Republikové předsednictvo a předsedá jim.
 
 ## Článek 12 Místopředsedové strany
 
