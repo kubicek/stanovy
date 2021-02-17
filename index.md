@@ -1,5 +1,3 @@
-# Stanovy Svobodných
-
 ## Článek 1 Úvodní ustanovení
 
 1) Politická strana nese název Svobodní
