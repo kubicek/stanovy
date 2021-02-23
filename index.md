@@ -68,7 +68,9 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 4) Člen krajského sdružení může požádat o členství v jiném krajském sdružení prostřednictvím předsedy kraje, kterého chce být členem. Předseda tohoto kraje dá hlasovat o žádosti na nejbližším zasedání krajského předsednictva. Pokud krajské předsednictvo žadatele přijme, stane se členem tohoto kraje. Republiková kancelář na základě zápisu z jednání krajského předsednictva zařadí žadatele do krajského sdružení, o jehož členství žádal. Veškerá práva a povinnosti v původním kraji ztrácí, včetně případného mandátu v orgánech kraje, zároveň získává veškerá práva a povinnosti v novém krajském sdružení. Tato změna je možná pouze jednou za kalendářní rok.
 
-5) Členství zaniká:
+5) Členství ve straně se pozastavuje na základě žádosti člena o pozastavení vlastního členství. Žádost podává člen do rukou krajského předsednictva. Pozastavení členství bere na vědomí předseda krajského sdružení nebo pověřený místopředseda a bez zbytečného odkladu o něm informuje Republikovou kancelář. Ten, jehož členství bylo pozastaveno, ztrácí přístup do interních systémů a fór strany, nemůže vykonávat funkce, do kterých byl zvolen, hlasovat, volit a být volen do kteréhokoli orgánu strany. Při stanovení volebních a hlasovacích kvór se jeho osoba nezapočítává. Pokud má člen pozastavené členství po dobu celého kalendářního roku, neplatí za tento rok členský příspěvek. Pozastavení členství se ruší na základě žádosti člena, jemuž bylo členství pozastaveno, která se podává do rukou krajského předsednictva. Zrušení pozastavení členství bere na vědomí předseda krajského sdružení nebo pověřený místopředseda a bez zbytečného odkladu o něm informuje Republikovou kancelář.
+
+6) Členství zaniká:
 
     a) nezaplacením členského příspěvku ve stanovené lhůtě,
 
@@ -82,9 +84,9 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
     f) úmrtím.
 
-6) Zánik členství bere na vědomí příslušné krajské předsednictvo, nestane-li se tak, Republikové předsednictvo. Není-li uvedeno jinak, zaniká členství dnem vzetí na vědomí.
+7) Zánik členství bere na vědomí příslušné krajské předsednictvo, nestane-li se tak, Republikové předsednictvo. Není-li uvedeno jinak, zaniká členství dnem vzetí na vědomí.
 
-7) Člen má právo:
+8) Člen má právo:
 
     a) být informován o činnosti strany, o všech jednáních krajského sdružení, k němuž přísluší a o přijatých usneseních,
 
@@ -100,7 +102,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
     g) obracet se na Rozhodčí komisi v případě sporu a podávat návrh na vyloučení Rozhodčí komisi.
 
-8) Člen je povinen:
+9) Člen je povinen:
 
     a) podporovat politické cíle strany, zejména základní programové cíle uvedené v článku 2,
 
@@ -172,7 +174,7 @@ b) Hospodářská spolupráce států nevyžaduje politickou integraci. Největ�
 
 Pro určení počtu místopředsedů podle tohoto ustanovení je rozhodující počet registrovaných členů v krajském sdružení k 1. červnu každého roku. Pokud počet členů k tomuto datu klesne tak, že by mělo dojít ke snížení počtu místopředsedů, stávající místopředsedové pokračují ve funkcích do skončení svého volebního období.
 
-1) Krajské předsednictvo:
+4) Krajské předsednictvo:
 
     a) se skládá z předsedy a čtyř místopředsedů,
   
